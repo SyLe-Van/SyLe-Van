@@ -67,9 +67,6 @@ current_learning:
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Winston-231F20?style=for-the-badge&logo=node.js&logoColor=white" alt="Winston" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK" />
-  <img src="https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Node Exporter" />
 </p>
 
 ### 🌐 Web Server & Proxy
@@ -166,27 +163,6 @@ current_learning:
 <img src="https://img.shields.io/badge/Env_Variables-4CAF50?style=for-the-badge&logo=dotenv&logoColor=white" />
 
 </div>
-
----
-
-## 📈 Featured DevOps Projects
-
-### 🚗 VuCar - Car Inspection System
-
-[![Live Demo](https://img.shields.io/badge/Live-vucar.syledevops.live-success?style=for-the-badge&logo=google-chrome)](https://vucar.syledevops.live)
-[![Docker](https://img.shields.io/badge/Docker-syle712%2Fvucar--app-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/syle712/vucar-app)
-
-**DevOps Highlights:**
-
-- ✅ Jenkins CI/CD with 7-stage automated pipeline
-- ✅ Docker multi-arch builds (ARM64/AMD64)
-- ✅ AWS EC2 deployment with Nginx reverse proxy
-- ✅ Prometheus + Grafana monitoring (20+ custom metrics)
-- ✅ Winston logging with daily rotation
-- ✅ Zero-downtime deployment strategy
-- ✅ Let's Encrypt SSL automation
-
-**Tech Stack:** Next.js | MongoDB Atlas | Docker | Jenkins | AWS | Prometheus | Grafana
 
 ---
 
