@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SyLe-Van;DevOps+Engineer;Full-Stack+Developer;Cloud+%26+Infrastructure+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Backend Devloper </h3>
 
 <p align="center">
   <i>Building scalable systems with modern DevOps practices</i>
