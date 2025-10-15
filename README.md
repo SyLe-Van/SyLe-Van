@@ -127,60 +127,45 @@ current_learning:
 
 ## 🎓 DevOps Practices & Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🏗️ Infrastructure & Cloud
 
-```yaml
-- AWS EC2 Management
-- Nginx Reverse Proxy
-- SSL/TLS Configuration
-- Multi-Architecture Support
-- Linux Server Administration
-- Network Security
-```
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/SSL/TLS-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Multi--Arch-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white" />
 
 ### 🔄 CI/CD Pipeline
 
-```yaml
-- Jenkins Automation
-- Automated Deployment
-- Zero-Downtime Updates
-- Health Check Validation
-- Branch Strategy
-- Rollback Mechanisms
-```
-
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Automated_Deployment-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Zero--Downtime-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Health_Checks-4CAF50?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_Strategy-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Rollback-FF5722?style=for-the-badge&logo=rollup.js&logoColor=white" />
 
 ### 🐳 Containerization
 
-```yaml
-- Docker Multi-stage Builds
-- Docker Compose Orchestration
-- Image Optimization
-- Registry Management (Docker Hub)
-- Container Security
-- Multi-arch Support (ARM64/AMD64)
-```
+<img src="https://img.shields.io/badge/Docker_Multi--stage-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Image_Optimization-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Container_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/ARM64/AMD64-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ### 📊 Monitoring & Security
 
-```yaml
-- Prometheus Metrics (50+)
-- Grafana Dashboards
-- Winston Logging System
-- Custom Metrics Collection
-- SSL Certificates Management
-- Environment Variables Security
-```
+<img src="https://img.shields.io/badge/Prometheus_(50+_Metrics)-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana_Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Winston_Logging-231F20?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Custom_Metrics-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/SSL_Certificates-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Env_Variables-4CAF50?style=for-the-badge&logo=dotenv&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
