@@ -235,47 +235,6 @@ metrics:
 
 ---
 
-## 📝 Latest Blog Posts & Knowledge Sharing
-
-<!-- BLOG-POST-LIST:START -->
-
-- 🐳 Building Multi-Architecture Docker Images for Production
-- 🔄 Implementing Zero-Downtime Deployment with Jenkins
-- 📊 Setting Up Prometheus & Grafana Monitoring Stack
-- 🔒 Automated SSL Certificate Management with Let's Encrypt
-- 🚀 AWS EC2 Deployment Best Practices
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌟 DevOps Philosophy
-
-> _"Automate everything, monitor everything, improve continuously"_
-
-```python
-class DevOpsEngineer:
-    def __init__(self):
-        self.name = "SyLe-Van"
-        self.role = "DevOps Engineer"
-        self.language_spoken = ["vi_VN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together!")
-
-    def current_work(self):
-        return {
-            "infrastructure": ["AWS EC2", "Docker", "Nginx"],
-            "ci_cd": ["Jenkins", "GitHub Actions"],
-            "monitoring": ["Prometheus", "Grafana", "Winston"],
-            "automation": ["Bash Scripts", "Python", "Node.js"]
-        }
-
-me = DevOpsEngineer()
-me.say_hi()
-```
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SyLe-Van&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
