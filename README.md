@@ -35,6 +35,7 @@ current_learning:
 ## 🛠️ DevOps Tech Stack
 
 ### ☁️ Cloud & Infrastructure
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2" />
@@ -44,6 +45,7 @@ current_learning:
 </p>
 
 ### 🐳 Containerization & Orchestration
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
@@ -52,6 +54,7 @@ current_learning:
 </p>
 
 ### 🔄 CI/CD & Automation
+
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -60,6 +63,7 @@ current_learning:
 </p>
 
 ### 📊 Monitoring & Logging
+
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
@@ -69,6 +73,7 @@ current_learning:
 </p>
 
 ### 🌐 Web Server & Proxy
+
 <p>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
@@ -76,6 +81,7 @@ current_learning:
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
@@ -85,6 +91,7 @@ current_learning:
 </p>
 
 ### 💻 Development Stack
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -96,6 +103,7 @@ current_learning:
 </p>
 
 ### 🔧 Tools & Version Control
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -106,6 +114,7 @@ current_learning:
 </p>
 
 ### 🎨 Design & Frontend Tools
+
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
@@ -118,45 +127,72 @@ current_learning:
 
 ## 🎓 DevOps Practices & Skills
 
-```mermaid
-mindmap
-  root((DevOps))
-    Infrastructure
-      AWS EC2
-      Nginx Reverse Proxy
-      SSL/TLS Management
-      Multi-Architecture Support
-    CI/CD
-      Jenkins Pipeline
-      Automated Deployment
-      Zero-Downtime Updates
-      Health Check Validation
-    Containerization
-      Docker Multi-stage Builds
-      Docker Compose
-      Image Optimization
-      Registry Management
-    Monitoring
-      Prometheus Metrics
-      Grafana Dashboards
-      Winston Logging
-      Custom Metrics Collection
-    Security
-      SSL Certificates
-      Security Headers
-      Environment Variables
-      Secret Management
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Infrastructure & Cloud
+
+```yaml
+- AWS EC2 Management
+- Nginx Reverse Proxy
+- SSL/TLS Configuration
+- Multi-Architecture Support
+- Linux Server Administration
+- Network Security
 ```
+
+### 🔄 CI/CD Pipeline
+
+```yaml
+- Jenkins Automation
+- Automated Deployment
+- Zero-Downtime Updates
+- Health Check Validation
+- Branch Strategy
+- Rollback Mechanisms
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 Containerization
+
+```yaml
+- Docker Multi-stage Builds
+- Docker Compose Orchestration
+- Image Optimization
+- Registry Management (Docker Hub)
+- Container Security
+- Multi-arch Support (ARM64/AMD64)
+```
+
+### 📊 Monitoring & Security
+
+```yaml
+- Prometheus Metrics (50+)
+- Grafana Dashboards
+- Winston Logging System
+- Custom Metrics Collection
+- SSL Certificates Management
+- Environment Variables Security
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 Featured DevOps Projects
 
 ### 🚗 VuCar - Car Inspection System
+
 [![Live Demo](https://img.shields.io/badge/Live-vucar.syledevops.live-success?style=for-the-badge&logo=google-chrome)](https://vucar.syledevops.live)
 [![Docker](https://img.shields.io/badge/Docker-syle712%2Fvucar--app-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/syle712/vucar-app)
 
 **DevOps Highlights:**
+
 - ✅ Jenkins CI/CD with 7-stage automated pipeline
 - ✅ Docker multi-arch builds (ARM64/AMD64)
 - ✅ AWS EC2 deployment with Nginx reverse proxy
@@ -254,6 +290,7 @@ metrics:
 ## 📝 Latest Blog Posts & Knowledge Sharing
 
 <!-- BLOG-POST-LIST:START -->
+
 - 🐳 Building Multi-Architecture Docker Images for Production
 - 🔄 Implementing Zero-Downtime Deployment with Jenkins
 - 📊 Setting Up Prometheus & Grafana Monitoring Stack
@@ -265,7 +302,7 @@ metrics:
 
 ## 🌟 DevOps Philosophy
 
-> *"Automate everything, monitor everything, improve continuously"*
+> _"Automate everything, monitor everything, improve continuously"_
 
 ```python
 class DevOpsEngineer:
@@ -273,10 +310,10 @@ class DevOpsEngineer:
         self.name = "SyLe-Van"
         self.role = "DevOps Engineer"
         self.language_spoken = ["vi_VN", "en_US"]
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome together!")
-    
+
     def current_work(self):
         return {
             "infrastructure": ["AWS EC2", "Docker", "Nginx"],
